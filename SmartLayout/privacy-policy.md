@@ -24,4 +24,4 @@ SmartLayout offers a one-time purchase to unlock the full layout. Purchase recor
 
 ## Contact
 
-If you have any questions, contact: **[your email]**
+If you have any questions, contact: ais3n@protonmail.com
