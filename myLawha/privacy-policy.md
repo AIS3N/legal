@@ -112,7 +112,7 @@ authority.
 
 ## Children's privacy
 
-myLawha is not directed at children under [13/16]. We do not knowingly collect
+myLawha is not directed at children under 16. We do not knowingly collect
 data from them. If you believe a child has given us data, contact
 demk0@proton.me and we'll delete it.
 
