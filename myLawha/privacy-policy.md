@@ -1,6 +1,6 @@
 # Privacy Policy — myLawha
 
-**Last updated: 28/08/26**
+**Last updated: 15/10/26**
 
 myLawha ("the app", "we", "us") helps you memorize the Quran by writing it by
 hand. We collect only what the app needs to work. This policy explains what we
@@ -8,7 +8,7 @@ process, why, who we share it with, and the control you have.
 
 - **App:** myLawha
 - **Provider:** Demko Corp
-- **Contact:** demk0@proton.me
+- **Contact:** contact@mylawha.app
 
 ## The short version
 
@@ -104,7 +104,7 @@ of this is immediate and in your hands:
   data and your sign-in identity, then returns the app to a fresh anonymous
   state. It cannot be undone.
 - **Turn off reminders:** Preferences, or iOS Settings.
-- **Anything else** — including a copy of your data — write to demk0@proton.me
+- **Anything else** — including a copy of your data — write to contact@mylawha.app
   and we'll respond within 30 days.
 
 If you're in the EEA or UK you may also complain to your local data protection
@@ -114,7 +114,7 @@ authority.
 
 myLawha is not directed at children under 16. We do not knowingly collect
 data from them. If you believe a child has given us data, contact
-demk0@proton.me and we'll delete it.
+contact@mylawha.app and we'll delete it.
 
 ## Security
 
@@ -130,4 +130,4 @@ change is significant, tell you in the app.
 
 ## Contact
 
-Questions about this policy or your data: **demk0@proton.me**
+Questions about this policy or your data: **contact@mylawha.app**
